@@ -16,17 +16,6 @@ Built on core 3D graphics principles using **OpenGL transformations**, **project
 
 ---
 
-## 👥 Team
-
-| Student ID | Name |
-|------------|------|
-| 21201426 | Abtahi Bin Jahangir Chowdhury |
-| 21201772 | Sayed Afridi |
-| 21201067 | Arafat Islam Sajin |
-
-**Section:** 17 · **Course:** Summer 2025
-
----
 
 ## 🎮 Gameplay
 
