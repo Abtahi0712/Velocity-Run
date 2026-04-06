@@ -2,12 +2,6 @@
 
 > A 3D endless runner built with OpenGL — survive the corridor, beat the clock, outrun the chaos.
 
-![OpenGL](https://img.shields.io/badge/OpenGL-3D%20Graphics-blue?style=flat-square)
-![C++](https://img.shields.io/badge/Language-C%2B%2B-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow?style=flat-square)
-
----
-
 ## 📖 Overview
 
 **Velocity Run** is a three-dimensional endless runner where the player navigates a procedurally generated corridor filled with hazards, collectibles, and power-ups. The objective is simple — survive as long as possible while the world accelerates around you.
