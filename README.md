@@ -142,6 +142,20 @@ R               →  Restart game
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="VelocityRun_ss1.png" alt="Velocity Run – third-person corridor view, 55m distance, speed 30 u/s" width="700"/>
+  <br/><em>Early run — third-person view, three-lane corridor at 30 u/s</em>
+</p>
+
+<p align="center">
+  <img src="VelocityRun_ss2.png" alt="Velocity Run – side-angle view, 182m distance, speed 96 u/s" width="700"/>
+  <br/><em>High-speed run — side-angle camera, 182m distance at 96 u/s</em>
+</p>
+
+---
+
 ## 📌 Project Status
 
 This project is being developed as part of a university graphics course (Summer 2025). Features are subject to change as development progresses.
